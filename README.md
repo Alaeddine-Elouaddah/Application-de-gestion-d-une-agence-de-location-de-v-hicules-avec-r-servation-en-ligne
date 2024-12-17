@@ -18,8 +18,8 @@ Base de données :
 La structure de la base de données est prête, avec les tables vehicule, client, reservation, administrateur, etc.
 Les tables sont liées entre elles avec des clés primaires et étrangères, permettant de gérer les relations entre les entités.
 5-Étapes suivantes :
-1. Finaliser le Backend :
++Finaliser le Backend :
 Vérification de la logique des API :
 
 Vérifiez que chaque fonction du backend (comme l'ajout, la suppression, la mise à jour des véhicules) fonctionne correctement.
-
+Vérifier que toutes les fonctions du backend fonctionnent correctement
